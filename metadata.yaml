@@ -1,5 +1,8 @@
 _repo: From-Boyhood-to-Manhood--Life-of-Benjamin-Franklin_9607
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thayer, William Makepeace
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '3095'
     url: http://www.gutenberg.org/2009/agents/3095
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9607#From-Boyhood-to-Manhood--Life-of-Benjamin-Franklin
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
 identifiers:
